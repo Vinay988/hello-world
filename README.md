@@ -1,3 +1,3 @@
 # hello-world
 hello world repository
-This is to test branching in git bub
+This is to branch 1 in git bub
